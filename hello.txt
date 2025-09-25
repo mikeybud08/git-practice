@@ -1,1 +1,2 @@
 Hello Git! This is my first change.
+This is a change done directly on GitHub as to simulate another dev.
